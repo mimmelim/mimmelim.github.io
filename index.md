@@ -1,5 +1,5 @@
 # Margareth Rimmereide
-![mdm_mim](mdmMim.webp)
+![mdm_mim](mdmMim.webp width=400)
 ## Lærar ved Porsgrunn vgs i faga
 - norsk
 - matematikk
