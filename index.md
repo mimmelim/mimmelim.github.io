@@ -7,7 +7,7 @@
 - konseptutvikling og programmering
 
 
-## lenkjer til lærestoff i faga eg underviser
+## lenkjer til lærestoff i fag eg underviser
 - [informasjonsteknologi 1](#)
 - [informasjonsteknologi 2](https://github.com/mimmelim/IT2_nyLaereplan/blob/main/README.md)
 - [konseptutvikling og programmering](https://github.com/mimmelim/konseptutvikling_og_programmering/blob/main/README.md)
@@ -24,3 +24,5 @@
 
 # 
 - [Fagutviklar](https://github.com/mimmelim/fagutvikler/blob/main/README.md)
+- [Kontaktlærar](#)
+- [Student: NTNU, HiA](#)
