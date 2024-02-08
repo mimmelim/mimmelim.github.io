@@ -1,7 +1,7 @@
 # Margareth Rimmereide
 <!--![mdm_mim](mdmMim.webp )-->
 <img src="mdmMim.webp" style="width: 400px;">
-<figcaption>mdm_mim</figcaption>
+<figcaption>mdm_mim (kilde: https://adriankoltun014.wordpress.com/2014/01/29/the-magnificent-marvelous-mad-madam-mim/)</figcaption>
 
 ## Lærar ved Porsgrunn vgs i faga
 - norsk
