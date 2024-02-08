@@ -2,6 +2,7 @@
 <!--![mdm_mim](mdmMim.webp )-->
 <img src="mdmMim.webp" style="width: 400px;">
 <figcaption>mdm_mim</figcaption>
+
 ## Lærar ved Porsgrunn vgs i faga
 - norsk
 - matematikk
