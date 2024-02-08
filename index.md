@@ -1,6 +1,6 @@
 # Margareth Rimmereide
 <!--![mdm_mim](mdmMim.webp )-->
-<img src="mdmMim.webp" width="400)>
+<img src="mdmMim.webp" style="width: 300px;">
 <figcaption>mdm_mim</figcaption>
 ## Lærar ved Porsgrunn vgs i faga
 - norsk
