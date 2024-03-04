@@ -6,7 +6,7 @@
 ## Lærar ved Porsgrunn vgs i faga
 - norsk
 - matematikk
-- informasjonsteknologi
+- informasjonsteknologi 1 og 2
 - konseptutvikling og programmering
 
 
